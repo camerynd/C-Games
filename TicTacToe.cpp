@@ -1,10 +1,3 @@
-/*
-Program 8_ExtraCredit
-Duarte, Cameryn
-CSC119-142 Introduction to Programming C++ Spring 2021
-03/30/2021
-This program performs a game of tic tac toe
-*/
 #include<iostream>
 using namespace std;
 const int SIZE = 3, PLAYER_NUMBER = 2;//global constants
