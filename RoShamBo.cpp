@@ -1,10 +1,3 @@
-/*
-Chapter06_ExtraCredit.cpp
-Duarte, Cameryn
-CSC119-143 Intro to Programming Spring 2021
-03/03/2021
-This program performs a game of rock paper scissors.
-*/
 #include<iostream>
 #include <cstdlib>//allows random number function
 #include <ctime>//makes random number function provide a different number each time it is used
